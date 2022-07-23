@@ -1,0 +1,10 @@
+data/
+env/
+testenv/
+experiments/
+nyuv2-python-toolbox/
+pretrained_models/
+simclr-pytorch/
+submission/
+experiments.zip
+submission.zip
