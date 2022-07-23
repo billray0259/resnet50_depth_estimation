@@ -1,7 +1,3 @@
-# Contributions
-William Ray wrote all the code in `src` and executed all experiments and wrote the entire paper and presentaiton.
-
-
 # How to run
 pip install the requirements.txt file
 
