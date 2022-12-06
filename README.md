@@ -9,7 +9,7 @@ and put it in `data/nyu_depth_v2_labeled.mat`
 
 Clone this repository: https://github.com/AndrewAtanov/simclr-pytorch
 
-add an __init__.py file in the main direcotry of that repository
+add an __init__.py file in the main directory of that repository
 
 In simclr-pytorch/models/resnet.py modify the code at line 49 to:
 ```
