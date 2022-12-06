@@ -40,8 +40,3 @@ Reduce the batch size if that is inaccessible and you just want to see it run.
 # How to test
 Run the notebooks in src/testing
 
-# How to debug
-Send me a text at 303-667-3042 (I typically don't answer unknown numbers but I would call back if I got a text) or email wray@umass.edu and I'll get back to you as soon as possible
-
-I think this should work just fine for you but deveopment environments can be tricky and I'd be happy to help get my project working for you. 
-
